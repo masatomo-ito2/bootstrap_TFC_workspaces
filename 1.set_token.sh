@@ -1,0 +1,2 @@
+#!/bin/bash
+export TFE_TOKEN=Ejbm91zFNkObDg.atlasv1.T65sbG1AqXBKzP4nsqnpcTilapf91w8lWmuKWzA31K3XCyFxTHUQxupk1GyMQ1YFqSc
